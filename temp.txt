@@ -1,0 +1,28 @@
+        var data = {
+            __elgg_token : elgg.security.token.__elgg_token,
+            __elgg_ts	: elgg.security.token.__elgg_ts,
+            accesslevel : {
+                briefdescription :	2,
+                contactemail : 2,
+                description : 2,
+                interests :	2,
+                location : 2,
+                mobile : 2,
+                phone : 2,
+                skills : 2,
+                twitter : 2,
+                website : 2
+            },
+            briefdescription : "Description changed",
+            contactemail : "",	
+            description	: "",
+            guid : 44,
+            interests : "",
+            location : "",
+            mobile : "",
+            name : "Alice",
+            phone : "",
+            skills : "", 
+            twitter	: "",
+            website	: ""
+        };        
